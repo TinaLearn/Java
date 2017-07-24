@@ -1,1 +1,1 @@
-# Java
+Parrot Refactoring Kata
